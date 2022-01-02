@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Krish-1346 AKA ThunderBolt
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning Advanced Web-Development & App-Development
+- 👦 Contact me at: thunderbolt1346@gmail.com
